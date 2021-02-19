@@ -1,0 +1,48 @@
+{
+    "companyName":"Netflix",
+    "endpointLever": "https://api.lever.co/v0/postings/netflix?mode=json",
+    "nbrOpenJob":4,
+    "openJobs":[
+        {   
+            "lever_id":"c11df0f2-21d5-4cc5-96f4-154609a2f97b",
+            "name":"Business Analyst",
+            "department":"Operations",
+            "jobUrl":"https://jobs.lever.co/trusty/c11df0f2-21d5-4cc5-96f4-154609a2f97b",
+            "contract":"Full-time contract",
+            "team": "Operations & Data",
+            "location": "Paris",
+            "publishedAt": "2020-06-27T14:42:22.585Z"
+        },
+        {   
+            "lever_id":"a9ae146a-2358-477c-9aab-3af4a4803d8d",
+            "name":"Business Developer Terrain - Bordeaux",
+            "jobUrl":"https://jobs.lever.co/trusty/a9ae146a-2358-477c-9aab-3af4a4803d8d",
+            "contract":"Full-time contract",
+            "department":"Sales Corporate",
+            "team": "Field - Account Executive",
+            "location": "Bordeaux",
+            "publishedAt": "2020-05-22T14:42:22.585Z"
+        },
+        {
+            "name":"Business Intelligence Manager",
+            "lever_id":"51440461-d425-482a-b42a-e8e4cf5e5e96",
+            "jobUrl":"https://jobs.lever.co/trusty/51440461-d425-482a-b42a-e8e4cf5e5e96",
+            "contract":"Full-time contract",
+            "department":"Operations",
+            "team": "Operations & Data",
+            "location": "Paris, France",
+            "publishedAt": "2020-07-07T14:42:22.585Z"
+        },
+        {   
+            "lever_id":"4001f5f6-af1d-43ba-860e-ae29d88998f8",
+            "name":"CRM Project Manager",
+            "jobUrl":"https://jobs.lever.co/trusty/4001f5f6-af1d-43ba-860e-ae29d88998f8",
+            "contract":"Full-time contract",
+            "department":"Marketing",
+            "team": "Growth",
+            "location": "Paris, France",
+            "publishedAt": "2020-06-08T14:42:22.585Z"
+        }
+        
+    ]
+}
